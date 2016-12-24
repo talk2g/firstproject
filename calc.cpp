@@ -16,7 +16,7 @@ case 1: c=a+b;
 printf("\n the sum is %d ",c);
 case 2: c=a-b;
 printf("\n the difference is %d ",c);
-case 2: c=a*b;
+case 3: c=a*b;
 printf("\n the product is %d ",c);
 
 }
