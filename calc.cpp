@@ -14,7 +14,7 @@ switch(d)
 case 1: c=a+b;
 printf("\n the sum is %d ",c);
 case 2: c=a-b;
-printf("\n the sum is %d ",c);
+printf("\n the diff is %d ",c);
 
 }
 getch();
